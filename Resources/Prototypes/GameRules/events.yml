@@ -113,7 +113,7 @@
   - type: StationEvent
     weight: 7
     duration: 1
-    minimumPlayers: 15
+    minimumPlayers: 5
   - type: BreakerFlipRule
 
 - type: entity
@@ -122,7 +122,7 @@
   components:
   - type: StationEvent
     startAnnouncement: station-event-bureaucratic-error-announcement
-    minimumPlayers: 25
+    minimumPlayers: 10
     weight: 3
     duration: 1
   - type: BureaucraticErrorRule
@@ -135,7 +135,7 @@
   components:
   - type: StationEvent
     startAnnouncement: station-event-clerical-error-announcement
-    minimumPlayers: 15
+    minimumPlayers: 5
     weight: 5
     duration: 1
   - type: ClericalErrorRule
@@ -147,7 +147,7 @@
   - type: StationEvent
     weight: 5
     duration: 1
-    minimumPlayers: 10
+    minimumPlayers: 5
   - type: RandomEntityStorageSpawnRule
     prototype: MobSkeletonCloset
 
@@ -157,7 +157,7 @@
   components:
   - type: StationEvent
     weight: 6.5
-    earliestStart: 40
+    earliestStart: 35
     reoccurrenceDelay: 20
     minimumPlayers: 20
     duration: null
@@ -237,7 +237,7 @@
     weight: 7.5
     duration: 1
     earliestStart: 45
-    minimumPlayers: 20
+    minimumPlayers: 10
   - type: RandomSpawnRule
     prototype: MobRevenant
 
@@ -448,7 +448,7 @@
   - type: StationEvent
     earliestStart: 35
     weight: 5.5
-    minimumPlayers: 20
+    minimumPlayers: 15
     duration: 1
   - type: RuleGrids
   - type: LoadMapRule
@@ -483,7 +483,7 @@
   - type: StationEvent
     earliestStart: 30
     weight: 8
-    minimumPlayers: 15
+    minimumPlayers: 10
     maxOccurrences: 1 # can only happen once per round
     startAnnouncement: station-event-communication-interception
     startAudio:

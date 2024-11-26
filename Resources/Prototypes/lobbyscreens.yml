@@ -1,18 +1,6 @@
 - type: lobbyBackground
-  id: Warden
-  background: /Textures/LobbyScreens/warden.webp
-
-- type: lobbyBackground
-  id: Pharmacy
-  background: /Textures/LobbyScreens/pharmacy.webp
-
-- type: lobbyBackground
   id: SSXIV
   background: /Textures/LobbyScreens/ssxiv.webp
-
-- type: lobbyBackground
-  id: Susstation
-  background: /Textures/LobbyScreens/susstation.webp
 
 - type: lobbyBackground
   id: SkellyVsTheRev
@@ -49,5 +37,42 @@
 - type: lobbyBackground
   id: Janitor
   background: /Textures/LobbyScreens/janitor.webp
+
+- type: lobbyBackground
+  id: CQCm3
+  background: /Textures/LobbyScreens/cqcm3.webp
+
+- type: lobbyBackground
+  id: Darkmauler
+  background: /Textures/LobbyScreens/darkmauler.webp
+
+- type: lobbyBackground
+  id: Drifting
+  background: /Textures/LobbyScreens/drifting.webp
+
+- type: lobbyBackground
+  id: Indeciphres
+  background: /Textures/LobbyScreens/INDECIPHRES.webp
+
+- type: lobbyBackground
+  id: Lavaland
+  background: /Textures/LobbyScreens/lavaland.webp
+
+- type: lobbyBackground
+  id: Nuclear
+  background: /Textures/LobbyScreens/nuclear emergency.webp
+
+- type: lobbyBackground
+  id: Deadgod
+  background: /Textures/LobbyScreens/RuinsOfTheDeadGod.webp
+
+- type: lobbyBackground
+  id: Bloodgeo
+  background: /Textures/LobbyScreens/TheBloodGeometer.webp
+
+- type: lobbyBackground
+  id: CQCm4
+  background: /Textures/LobbyScreens/cqcm4.webp
+  
   
   

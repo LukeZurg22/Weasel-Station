@@ -3,20 +3,10 @@
   copyright: "Veritius#2351 (257233913951289344) on discord / @Veritius on GitHub"
   source: "https://github.com/Veritius"
 
-- files: ["warden.webp", "pharmacy.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "Solbusaur#4343 (220208697429852160) on discord"
-  source: "https://github.com/space-wizards/space-station-14"
-
 - files: ["ssxiv.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Abyssal#4842 on discord / @aby_doodles on Twitter"
   source: "https://twitter.com/aby_doodles"
-
-- files: ["susstation.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "Alekshhh github"
-  source: "https://github.com/space-wizards/space-station-14"
 
 - files: ["skellyvstherev.webp"]
   license: "CC-BY-SA-4.0"
@@ -43,7 +33,7 @@
   copyright: "plantyfern on discord"
   source: "https://github.com/space-wizards/space-station-14"
 
-- files: ["cqcm.webp"] # These three titled "cqcm" and "janitor" are for Weaselstation
+- files: ["cqcm.webp"] # All images below are for Weaselstation
   license: "CC-BY-NC-SA-3.0"
   copyright: "blooodyspy"
   source: "https://github.com/GroggleG/Weasel-Station"
@@ -62,3 +52,48 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "Kor Phaeron"
   source: "https://tgstation13.org/phpBB/viewtopic.php?t=15554"
+
+- files: ["cqcm3.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "blooodyspy"
+  source: "https://github.com/GroggleG/Weasel-Station"
+
+- files: ["darkmauler.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["drifting.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["INDECIPHRES.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["lavaland.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["nuclear emergency.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["RuinsOfTheDeadGod.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["TheBloodGeometer.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["cqcm4.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "blooodyspy"
+  source: "https://github.com/GroggleG/Weasel-Station"
